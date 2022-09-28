@@ -11,5 +11,6 @@
     Пример:
     
 `{
- "3.0.3" : "https://github.com/javaSair/updateMarsMen/edit/main/404.rar"
+ "3.0.3" : "https://github.com/javaSair/updateMarsMen/edit/main/404.rar",
+ "4.0.3" : "https://github.com/javaSair/updateMarsMen/edit/main/404.rar",
 }`
